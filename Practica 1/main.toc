@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Resumen.}{2}{}%
+\contentsline {section}{\numberline {2}Objetivo.}{2}{}%
+\contentsline {section}{\numberline {3}Introducción.}{2}{}%
+\contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
+\contentsline {subsection}{\numberline {4.1}El multímetro.}{2}{}%
+\contentsline {subsection}{\numberline {4.2}Antes de usar un multímetro.}{2}{}%
+\contentsline {subsection}{\numberline {4.3}Mediciones de continuidad.}{2}{}%
+\contentsline {subsection}{\numberline {4.4}Mediciones de diferencia de potencial eléctrico(vóltmetro).}{2}{}%
+\contentsline {subsection}{\numberline {4.5}Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}{2}{}%
+\contentsline {subsection}{\numberline {4.6}Mediciones de intensidad de corriente directa(amperímetro).}{2}{}%
+\contentsline {section}{\numberline {5}Conclusiones.}{2}{}%

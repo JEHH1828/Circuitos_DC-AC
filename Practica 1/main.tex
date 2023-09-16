@@ -1,0 +1,145 @@
+\documentclass[10pt]{article}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage[left=2.00cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{graphicx,subfig}
+\usepackage{fancyhdr}
+\graphicspath{{Imagenes/}}
+\usepackage{enumerate} 
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\usepackage{adjustbox}
+\usepackage{amsmath}
+\usepackage{cancel}
+\begin{document}
+
+
+\pagestyle{fancy}
+\cfoot{}
+
+
+%Cabeceras
+\rhead{Ley de Ohm.}
+\lhead{}
+
+%Portada
+\begin{titlepage}
+	\newgeometry{
+		left=25mm,
+		right=25mm,
+		top=5mm,
+		bottom=30mm,
+		headheight = 0 mm
+	}
+
+	\begin{figure}[t]
+		\subfloat{\includegraphics[width=0.15\textwidth]{Logo_IPN}}
+		\hspace{0.6\textwidth}
+		\subfloat{\includegraphics[width=0.22\textwidth]{LogoEsime}}
+	\end{figure}
+
+	\centering
+	{\bfseries\Huge Instituto Politécnico Nacional. \par}
+	\vspace{1cm}
+	{\scshape\Large Ingeniería en Comunicaciones y Electrónica. \par}
+	\vspace{0.3cm}
+	{\scshape\Large Laboratorio de Circuitos de C.A y C.U .  \par}
+	\vspace{1cm}
+	{\scshape\Huge Resistencias Equivalentes. \par}
+	\vspace{1cm}
+	{\Large 3CM7\par}
+	\vfill
+	{\Large Autor: \par}
+
+	{\Large José Emilio Hernández Huerta. \par}
+
+	\vfill
+	{\Large Septiembre 2023. \par}
+
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Resumen.}
+
+
+\begin{multicols}{2}
+
+\section{Objetivo.}
+
+
+
+\section{Introducción.}
+
+
+
+\section{Marco teórico.}
+
+\subsection{El multímetro.}
+
+
+\subsection{Antes de usar un multímetro.}
+
+
+\end{multicols}
+
+\begin{center}
+	\begin{adjustbox}{width=500pt}
+		\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+			\hline
+			
+			 &  & \multicolumn{3}{ |c| }{Teoria} & \multicolumn{3}{ |c| }{Simulación multisim} & \multicolumn{3}{ |c| }{Simulación Pspice} & \multicolumn{3}{ |c| }{Mediciones en laboratorio} \\
+			\hline
+			 & Valor de resistores en ohms & \multicolumn{3}{ |c| }{$R_{eq}$}  & \multicolumn{3}{ |c| }{$R_{eq}$} & \multicolumn{3}{ |c| }{$R_{eq}$} & \multicolumn{3}{ |c| }{$R_{eq}$} \\
+			\hline
+			 &  & Tensión & Corriente & Potencia & Tensión & Corriente & Potencia & Tensión & Corriente & Potencia & Tensión & Corriente & Potencia \\ 
+			\hline
+			$R_{1}$ & 680 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1  \\
+			\hline
+			$R_{2}$ & 560 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1   \\
+			\hline
+			$R_{3}$ & 470 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1  \\
+			\hline
+			$R_{4}$ & 330 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+			\hline
+			$R_{5}$ & 220 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1   \\
+			\hline
+			$R_{6}$ & 100 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1   \\
+			\hline
+
+		\end{tabular}
+	\end{adjustbox}
+\end{center}
+
+\begin{multicols}{2}
+\subsection{Mediciones de continuidad.}
+
+
+\subsection{Mediciones de diferencia de potencial eléctrico(vóltmetro).}
+
+
+\subsection{Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}
+
+
+\subsection{Mediciones de intensidad de corriente directa(amperímetro).}
+
+
+\section{Conclusiones.}
+
+\subsection*{José Emilio Hernández Huerta.}
+
+
+
+\begin{thebibliography}{0}
+	\bibitem{citekey}[Bragado, I. M. (2003). Física General.]
+	\bibitem{citekey}[Benchimol, D. (c. 2020). Electrónica práctica. USERSHOP.]
+	\bibitem{citekey}[Peaktech. (2016). Manual de Usuario Peaktech 2005.]
+		
+\end{thebibliography}
+
+\end{multicols}
+
+\end{document}
