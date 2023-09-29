@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  12 SEP 2023 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  28 SEP 2023 22:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -142,44 +142,272 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip61
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty
+Package: circuitikz 2023/06/23{} The CircuiTikz circuit drawing package version 1.6.3
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box51
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count275
+\c@pgf@countb=\count276
+\c@pgf@countc=\count277
+\c@pgf@countd=\count278
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count279
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count280
+\pgfsyssoftpath@bigbuffer@items=\count281
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count282
+\pgfmath@box=\box52
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count283
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count284
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen192
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen196
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count285
+\pgf@shadingcount=\count286
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box56
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box57
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count287
+\pgfplotmarksize=\dimen258
+)
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count288
+\tikznumberofchildren=\count289
+\tikznumberofcurrentchild=\count290
+\tikz@fig@count=\count291
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count292
+\pgfmatrixcurrentcolumn=\count293
+\pgf@matrix@numberofcolumns=\count294
+)
+\tikz@expandcount=\count295
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen267
+\pgfarrowlength=\dimen268
+\pgfarrowwidth=\dimen269
+\pgfarrowlinewidth=\dimen270
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen271
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen272
+\pgf@curvilinear@length@a=\dimen273
+\pgf@curvilinear@length@b=\dimen274
+\pgf@curvilinear@length@c=\dimen275
+\pgf@curvilinear@length@d=\dimen276
+)
+\pgf@arrows@the@rigidity=\dimen277
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex
+\pgf@circ@count@a=\count296
+\pgf@circ@count@b=\count297
+\pgf@circ@count@c=\count298
+\pgf@circ@res@up=\dimen278
+\pgf@circ@res@down=\dimen279
+\pgf@circ@res@zero=\dimen280
+\pgf@circ@res@left=\dimen281
+\pgf@circ@res@right=\dimen282
+\pgf@circ@res@other=\dimen283
+\pgf@circ@res@step=\dimen284
+\pgf@circ@res@temp=\dimen285
+\pgf@circ@Rlen=\dimen286
+\pgf@circ@scaled@Rlen=\dimen287
+\pgfstartlinewidth=\dimen288
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex
+\ctikz@scratchbox=\box62
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex
+\pgf@circ@res@count=\count299
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen289
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks21
+\@enLab=\toks33
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count275
-\mult@box=\box51
-\multicol@leftmargin=\dimen161
-\c@unbalance=\count276
-\c@collectmore=\count277
-\doublecol@number=\count278
-\multicoltolerance=\count279
-\multicolpretolerance=\count280
-\full@width=\dimen162
-\page@free=\dimen163
-\premulticols=\dimen164
-\postmulticols=\dimen165
+\c@tracingmulticols=\count300
+\mult@box=\box63
+\multicol@leftmargin=\dimen290
+\c@unbalance=\count301
+\c@collectmore=\count302
+\doublecol@number=\count303
+\multicoltolerance=\count304
+\multicolpretolerance=\count305
+\full@width=\dimen291
+\page@free=\dimen292
+\premulticols=\dimen293
+\postmulticols=\dimen294
 \multicolsep=\skip64
 \multicolbaselineskip=\skip65
-\partial@page=\box52
-\last@line=\box53
-\maxbalancingoverflow=\dimen166
-\mult@rightbox=\box54
-\mult@grightbox=\box55
-\mult@firstbox=\box56
-\mult@gfirstbox=\box57
-\@tempa=\box58
-\@tempa=\box59
-\@tempa=\box60
-\@tempa=\box61
-\@tempa=\box62
-\@tempa=\box63
-\@tempa=\box64
-\@tempa=\box65
-\@tempa=\box66
-\@tempa=\box67
-\@tempa=\box68
-\@tempa=\box69
+\partial@page=\box64
+\last@line=\box65
+\maxbalancingoverflow=\dimen295
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@firstbox=\box68
+\mult@gfirstbox=\box69
 \@tempa=\box70
 \@tempa=\box71
 \@tempa=\box72
@@ -204,39 +432,51 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box91
 \@tempa=\box92
 \@tempa=\box93
-\c@minrows=\count281
-\c@columnbadness=\count282
-\c@finalcolumnbadness=\count283
-\last@try=\dimen167
-\multicolovershoot=\dimen168
-\multicolundershoot=\dimen169
-\mult@nat@firstbox=\box94
-\colbreak@box=\box95
-\mc@col@check@num=\count284
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count306
+\c@columnbadness=\count307
+\c@finalcolumnbadness=\count308
+\last@try=\dimen296
+\multicolovershoot=\dimen297
+\multicolundershoot=\dimen298
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count309
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen170
-\ar@mcellbox=\box96
-\extrarowheight=\dimen171
-\NC@list=\toks22
+\col@sep=\dimen299
+\ar@mcellbox=\box108
+\extrarowheight=\dimen300
+\NC@list=\toks34
 \extratabsurround=\skip66
 \backup@length=\skip67
-\ar@cellbox=\box97
+\ar@cellbox=\box109
 )
-\TX@col@width=\dimen172
-\TX@old@table=\dimen173
-\TX@old@col=\dimen174
-\TX@target=\dimen175
-\TX@delta=\dimen176
-\TX@cols=\count285
-\TX@ftn=\toks23
+\TX@col@width=\dimen301
+\TX@old@table=\dimen302
+\TX@old@col=\dimen303
+\TX@target=\dimen304
+\TX@delta=\dimen305
+\TX@cols=\count310
+\TX@ftn=\toks35
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks24
+\@emptytoks=\toks36
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -246,11 +486,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+
+(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
 )
-\XKV@depth=\count286
+\XKV@depth=\count311
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
@@ -258,33 +499,33 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box98
+\collectedbox=\box110
 )
-\tc@llx=\dimen177
-\tc@lly=\dimen178
-\tc@urx=\dimen179
-\tc@ury=\dimen180
+\tc@llx=\dimen306
+\tc@lly=\dimen307
+\tc@urx=\dimen308
+\tc@ury=\dimen309
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen181
-\adjbox@Height=\dimen182
-\adjbox@Depth=\dimen183
-\adjbox@Totalheight=\dimen184
-\adjbox@pwidth=\dimen185
-\adjbox@pheight=\dimen186
-\adjbox@pdepth=\dimen187
-\adjbox@ptotalheight=\dimen188
+\adjbox@Width=\dimen310
+\adjbox@Height=\dimen311
+\adjbox@Depth=\dimen312
+\adjbox@Totalheight=\dimen313
+\adjbox@pwidth=\dimen314
+\adjbox@pheight=\dimen315
+\adjbox@pdepth=\dimen316
+\adjbox@ptotalheight=\dimen317
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count287
+\c@checkoddpage=\count312
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box99
-\sift@deathcycles=\count288
-\@vwid@loff=\dimen189
-\@vwid@roff=\dimen190
+\@vwid@box=\box111
+\sift@deathcycles=\count313
+\@vwid@loff=\dimen318
+\@vwid@roff=\dimen319
 )) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip68
@@ -294,94 +535,87 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks27
-\ex@=\dimen191
+\@emptytoks=\toks39
+\ex@=\dimen320
 )) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen192
+\pmbraise@=\dimen321
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count289
+\inf@bad=\count314
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count290
-\leftroot@=\count291
+\uproot@=\count315
+\leftroot@=\count316
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count292
-\DOTSCASE@=\count293
+\classnum@=\count317
+\DOTSCASE@=\count318
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box100
-\strutbox@=\box101
+\Mathstrutbox@=\box112
+\strutbox@=\box113
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen193
+\big@size=\dimen322
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count294
+\macc@depth=\count319
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count295
+\c@MaxMatrixCols=\count320
 \dotsspace@=\muskip16
-\c@parentequation=\count296
-\dspbrk@lvl=\count297
-\tag@help=\toks28
-\row@=\count298
-\column@=\count299
-\maxfields@=\count300
-\andhelp@=\toks29
-\eqnshift@=\dimen194
-\alignsep@=\dimen195
-\tagshift@=\dimen196
-\tagwidth@=\dimen197
-\totwidth@=\dimen198
-\lineht@=\dimen199
-\@envbody=\toks30
+\c@parentequation=\count321
+\dspbrk@lvl=\count322
+\tag@help=\toks40
+\row@=\count323
+\column@=\count324
+\maxfields@=\count325
+\andhelp@=\toks41
+\eqnshift@=\dimen323
+\alignsep@=\dimen324
+\tagshift@=\dimen325
+\tagwidth@=\dimen326
+\totwidth@=\dimen327
+\lineht@=\dimen328
+\@envbody=\toks42
 \multlinegap=\skip69
 \multlinetaggap=\skip70
-\mathdisplay@stack=\toks31
+\mathdisplay@stack=\toks43
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count301
-\l__pdf_internal_box=\box102
+\l__color_backend_stack_int=\count326
+\l__pdf_internal_box=\box114
 ) (main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-
-
-LaTeX Warning: Label `citekey' multiply defined.
-
-
-LaTeX Warning: Label `citekey' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -417,21 +651,21 @@ LaTeX Font Info:    ... okay on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
 (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen256
-\scratchbox=\box103
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen257
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count327
+\scratchdimen=\dimen329
+\scratchbox=\box115
+\nofMPsegments=\count328
+\nofMParguments=\count329
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count330
+\MPscratchDim=\dimen330
+\MPnumerator=\count331
+\makeMPintoPDFobject=\count332
+\everyMPtoPDFconversion=\toks45
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -473,15 +707,15 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Imagenes//Logo_IPN.png, id=1, 587.94656pt x 836.3747pt>
+<Imagenes//Logo_IPN.png, id=4, 587.94656pt x 836.3747pt>
 File: Imagenes//Logo_IPN.png Graphic file (type png)
 <use Imagenes//Logo_IPN.png>
-Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 38.
+Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 39.
 (pdftex.def)             Requested size: 70.8018pt x 100.71797pt.
-<Imagenes//LogoEsime.png, id=3, 348.55219pt x 310.91156pt>
+<Imagenes//LogoEsime.png, id=6, 348.55219pt x 310.91156pt>
 File: Imagenes//LogoEsime.png Graphic file (type png)
 <use Imagenes//LogoEsime.png>
-Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 40.
+Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 41.
 (pdftex.def)             Requested size: 103.84744pt x 92.63371pt.
  [1
 
@@ -497,29 +731,104 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
- [1] [2] (main.aux
+ [1]
+<Imagenes/Multimetro.jpeg, id=22, 3011.25pt x 4015.0pt>
+File: Imagenes/Multimetro.jpeg Graphic file (type jpg)
+<use Imagenes/Multimetro.jpeg>
+Package pdftex.def Info: Imagenes/Multimetro.jpeg  used on input line 86.
+(pdftex.def)             Requested size: 245.24199pt x 326.96538pt.
+<Imagenes/fuente.png, id=23, 301.125pt x 301.125pt>
+File: Imagenes/fuente.png Graphic file (type png)
+<use Imagenes/fuente.png>
+Package pdftex.def Info: Imagenes/fuente.png  used on input line 93.
+(pdftex.def)             Requested size: 245.24199pt x 245.25159pt.
+<Imagenes/proto1.jpg, id=24, 602.25pt x 602.25pt>
+File: Imagenes/proto1.jpg Graphic file (type jpg)
+<use Imagenes/proto1.jpg>
+Package pdftex.def Info: Imagenes/proto1.jpg  used on input line 98.
+(pdftex.def)             Requested size: 245.24199pt x 245.2424pt.
+ [2 <./Imagenes/Multimetro.jpeg>]
+<Imagenes/resistor.png, id=28, 602.25pt x 205.76875pt>
+File: Imagenes/resistor.png Graphic file (type png)
+<use Imagenes/resistor.png>
+Package pdftex.def Info: Imagenes/resistor.png  used on input line 101.
+(pdftex.def)             Requested size: 245.24199pt x 83.79114pt.
+ [3 <./Imagenes/fuente.png> <./Imagenes/proto1.jpg> <./Imagenes/resistor.png>]
+<Imagenes/notas.jpg, id=38, 597.432pt x 845.559pt>
+File: Imagenes/notas.jpg Graphic file (type jpg)
+<use Imagenes/notas.jpg>
+Package pdftex.def Info: Imagenes/notas.jpg  used on input line 124.
+(pdftex.def)             Requested size: 245.24199pt x 347.0943pt.
+<Imagenes/recistencia eq.png, id=39, 1012.9845pt x 392.06474pt>
+File: Imagenes/recistencia eq.png Graphic file (type png)
+<use Imagenes/recistencia eq.png>
+Package pdftex.def Info: Imagenes/recistencia eq.png  used on input line 127.
+(pdftex.def)             Requested size: 245.24199pt x 94.91704pt.
+<Imagenes/recistencias k.png, id=40, 1012.9845pt x 392.06474pt>
+File: Imagenes/recistencias k.png Graphic file (type png)
+<use Imagenes/recistencias k.png>
+Package pdftex.def Info: Imagenes/recistencias k.png  used on input line 128.
+(pdftex.def)             Requested size: 245.24199pt x 94.91704pt.
+<Imagenes/corriente k.png, id=41, 1012.9845pt x 392.06474pt>
+File: Imagenes/corriente k.png Graphic file (type png)
+<use Imagenes/corriente k.png>
+Package pdftex.def Info: Imagenes/corriente k.png  used on input line 129.
+(pdftex.def)             Requested size: 245.24199pt x 94.91704pt.
+<Imagenes/potencias.png, id=42, 1012.9845pt x 392.06474pt>
+File: Imagenes/potencias.png Graphic file (type png)
+<use Imagenes/potencias.png>
+Package pdftex.def Info: Imagenes/potencias.png  used on input line 130.
+(pdftex.def)             Requested size: 245.24199pt x 94.91704pt.
+<Imagenes/psipce.png, id=43, 1156.32pt x 614.89725pt>
+File: Imagenes/psipce.png Graphic file (type png)
+<use Imagenes/psipce.png>
+Package pdftex.def Info: Imagenes/psipce.png  used on input line 132.
+(pdftex.def)             Requested size: 245.24199pt x 130.40826pt.
+<Imagenes/reseq.png, id=44, 221.8689pt x 78.0516pt>
+File: Imagenes/reseq.png Graphic file (type png)
+<use Imagenes/reseq.png>
+Package pdftex.def Info: Imagenes/reseq.png  used on input line 133.
+(pdftex.def)             Requested size: 245.24199pt x 86.27744pt.
+<Imagenes/vk.png, id=45, 221.8689pt x 80.7015pt>
+File: Imagenes/vk.png Graphic file (type png)
+<use Imagenes/vk.png>
+Package pdftex.def Info: Imagenes/vk.png  used on input line 134.
+(pdftex.def)             Requested size: 245.24199pt x 89.2066pt.
+<Imagenes/intensidad.png, id=46, 221.8689pt x 78.2925pt>
+File: Imagenes/intensidad.png Graphic file (type png)
+<use Imagenes/intensidad.png>
+Package pdftex.def Info: Imagenes/intensidad.png  used on input line 135.
+(pdftex.def)             Requested size: 245.24199pt x 86.5437pt.
+<Imagenes/potenciak.png, id=47, 221.8689pt x 78.5334pt>
+File: Imagenes/potenciak.png Graphic file (type png)
+<use Imagenes/potenciak.png>
+Package pdftex.def Info: Imagenes/potenciak.png  used on input line 136.
+(pdftex.def)             Requested size: 245.24199pt x 86.81pt.
+ [4 <./Imagenes/notas.jpg> <./Imagenes/recistencia eq.png> <./Imagenes/recistencias k.png> <./Imagenes/corriente k.png> <./Imagenes/potencias.png>]
+<Imagenes/Proto.jpeg, id=57, 3011.25pt x 4015.0pt>
+File: Imagenes/Proto.jpeg Graphic file (type jpg)
+<use Imagenes/Proto.jpeg>
+Package pdftex.def Info: Imagenes/Proto.jpeg  used on input line 140.
+(pdftex.def)             Requested size: 245.24199pt x 326.96538pt.
+ [5 <./Imagenes/psipce.png> <./Imagenes/reseq.png> <./Imagenes/vk.png> <./Imagenes/intensidad.png> <./Imagenes/potenciak.png> <./Imagenes/Proto.jpeg>] (main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 8463 strings out of 476330
- 142764 string characters out of 5787766
+ 35607 strings out of 476330
+ 873865 string characters out of 5787766
  1869660 words of memory out of 5000000
- 28779 multiletter control sequences out of 15000+600000
- 516714 words of font info for 49 fonts, out of 8000000 for 9000
+ 55623 multiletter control sequences out of 15000+600000
+ 517407 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,79p,566b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on main.pdf (3 pages, 350315 bytes).
+ 99i,11n,103p,807b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (6 pages, 3599862 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

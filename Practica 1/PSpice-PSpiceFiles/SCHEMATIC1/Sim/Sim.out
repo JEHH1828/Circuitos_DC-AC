@@ -1,0 +1,91 @@
+
+**** 09/28/23 19:14:56 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-PSpiceFiles\SCHEMATIC1\Sim.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Sim.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\jehh1\AppData\Roaming\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 500ms 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source PSPICE
+R_R6         0 N00717  100 TC=0,0 
+R_R2         N00705 N00709  560 TC=0,0 
+R_R4         N00713 N00717  330 TC=0,0 
+R_R3         N00709 N00713  470 TC=0,0 
+R_R1         N03712 N00705  690 TC=0,0 
+R_R5         0 N00717  220 TC=0,0 
+V_V1         N03712 0 9Vdc
+
+**** RESUMING Sim.cir ****
+.END
+
+**** 09/28/23 19:14:56 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-PSpiceFiles\SCHEMATIC1\Sim.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00705)    6.0690 (N00709)    3.6903 (N00713)    1.6938 (N00717)     .2920     
+
+(N03712)    9.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -4.248E-03
+
+    TOTAL POWER DISSIPATION   3.82E-02  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 09/28/23 19:14:56 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-PSpiceFiles\SCHEMATIC1\Sim.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =        0.00
+
