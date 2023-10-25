@@ -1,7 +1,7 @@
-
-**** 09/28/23 19:14:56 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-PSpiceFiles\SCHEMATIC1\Sim.sim ] 
+**** 09/30/23 18:45:03 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-pspicefiles\schematic1\sim.sim ] 
 
 
  ****     CIRCUIT DESCRIPTION
@@ -42,9 +42,9 @@ V_V1         N03712 0 9Vdc
 **** RESUMING Sim.cir ****
 .END
 
-**** 09/28/23 19:14:56 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+**** 09/30/23 18:45:03 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-PSpiceFiles\SCHEMATIC1\Sim.sim ] 
+ ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-pspicefiles\schematic1\sim.sim ] 
 
 
  ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
@@ -75,9 +75,9 @@ V_V1         N03712 0 9Vdc
 
           JOB CONCLUDED
 
-**** 09/28/23 19:14:56 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+**** 09/30/23 18:45:03 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-PSpiceFiles\SCHEMATIC1\Sim.sim ] 
+ ** Profile: "SCHEMATIC1-Sim"  [ d:\workspace\circuitos_dc-ac\practica 1\pspice-pspicefiles\schematic1\sim.sim ] 
 
 
  ****     JOB STATISTICS SUMMARY
@@ -87,5 +87,5 @@ V_V1         N03712 0 9Vdc
 
 
 
-  Total job time (using Solver 1)   =        0.00
+  Total job time (using Solver 1)   =         .03
 

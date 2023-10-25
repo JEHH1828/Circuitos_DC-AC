@@ -54,8 +54,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 365")
-        (Scroll "452 215")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1408 13 326")
+        (Scroll "452 193")
         (Zoom "224")
         (Occurrence "/"))
       (Path "D:\WORKSPACE\CIRCUITOS_DC-AC\PRACTICA 1\PSPICE.DSN")

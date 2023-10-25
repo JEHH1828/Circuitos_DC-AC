@@ -5,6 +5,8 @@
 \usepackage[spanish]{babel}
 \usepackage{graphicx,subfig}
 \usepackage{fancyhdr}
+\usepackage[rightcaption]{sidecap}
+\usepackage[font=small,labelfont=bf]{caption}
 \usepackage[american]{circuitikz}
 \graphicspath{{Imagenes/}}
 \usepackage{enumerate} 
@@ -74,31 +76,44 @@ Con un circuito de 6 elementos pasivos, en particular 4 recistores en serie, 2 e
 Calcular las magnitudes de los componentes electronicos, como aprender a simular circuitos en programas profesionales como Multisim y Pspice. Conocer el funcionamiento de la protoboard al igual de como medirlos con un multimetro tomando las medidas optimas para no quemar ningun fusible, recistor o fuente.
 
 
-\section{Introducción.}
-
-
 
 \section{Marco teórico.}
 
 \subsection{El multímetro.}
 Un multímetro digital, como el LOMVUM T28B, se utiliza para medir voltaje, corriente, resistencia y otras magnitudes eléctricas en circuitos. Tiene una pantalla LCD para mostrar los valores y perillas de selección para elegir la función de medición. Los cables de prueba se conectan al componente o circuito que se va a medir. Puedes medir voltaje en paralelo, corriente en serie y resistencia conectando los cables adecuadamente. Los multímetros avanzados pueden tener funciones adicionales como medición de capacitancia y continuidad. 
+	\begin{center}
+		\includegraphics[width=3cm, height=4cm]{Imagenes/Multimetro.jpeg}
+		\captionof{figure}{Multimetro}
+		
+	\end{center}
 	
-\includegraphics[width=\linewidth]{Imagenes/Multimetro.jpeg}
+	
 		
 	
 	
 
 \subsection{Fuente regulable.}
 Una fuente regulable de corriente continua (CC) es un dispositivo que suministra una corriente constante y ajustable a un circuito o carga. Funciona mediante la conversión de corriente alterna (CA) en CC a través de un transformador y un rectificador, seguido de un circuito de regulación de corriente que permite ajustar la corriente deseada. Estas fuentes son esenciales en laboratorios y aplicaciones electrónicas, permitiendo un suministro preciso y controlado de energía a dispositivos y circuitos. Además, a menudo incluyen protecciones para evitar condiciones peligrosas.
-\includegraphics[width=\linewidth]{Imagenes/fuente.png}
+\begin{center}
+	\includegraphics[width=3cm, height=4cm]{Imagenes/fuente.png}
+	\captionof{figure}{Fuente de voltaje regulable}
+	
+\end{center}
+
 \subsection{Protoboard.}
 La protoboard consiste en una superficie rectangular con una serie de orificios pequeños distribuidos en filas y columnas. Cada uno de estos orificios está conectado eléctricamente con otros orificios en su misma fila o columna. Las filas y columnas están etiquetadas con números y letras, lo que facilita la organización y la conexión de los componentes.
 
 Lo que hace que la protoboard sea tan útil es que permite conectar componentes electrónicos, como resistencias, LEDs, transistores y otros, simplemente insertando sus patas en los orificios correspondientes. Cuando dos componentes comparten un orificio o están conectados a través de un cable conductor, se establece una conexión eléctrica entre ellos. Esto permite construir y modificar circuitos de manera rápida y sin necesidad de herramientas de soldadura.
-\includegraphics[width=\linewidth]{Imagenes/proto1.jpg}
+\begin{center}
+	\includegraphics[width=3cm, height=4cm]{Imagenes/proto1.jpg}
+	\captionof{figure}{Protoboard}
+\end{center}
 \subsection{Recistor.}
 Un resistor, o resistencia eléctrica, es un componente pasivo fundamental en electrónica que se utiliza para limitar el flujo de corriente eléctrica en un circuito. Su función principal es ofrecer una resistencia al paso de la electricidad, lo que genera una caída de tensión a través de él según la Ley de Ohm. Los resistores están diseñados con un valor específico de resistencia, que se mide en ohmios ($\Omega$), y se fabrican en una variedad de tamaños y potencias para adaptarse a diversas aplicaciones electrónicas. Estos componentes son ampliamente utilizados para ajustar la corriente, dividir el voltaje, proteger componentes sensibles y realizar otras funciones esenciales en la electrónica y la electricidad.
-\includegraphics[width=\linewidth]{Imagenes/resistor.png}
+\begin{center}
+	\includegraphics[width=5cm, height=3cm]{Imagenes/resistor.png}
+	\captionof{figure}{Recistor}
+\end{center}
 \subsection{Ley de Ohm.}
 La Ley de Ohm es un principio fundamental en la electrónica y la electricidad que establece la relación entre la corriente eléctrica (I), la tensión o voltaje (V) y la resistencia eléctrica (R) en un circuito eléctrico. Fue formulada por el físico alemán Georg Simon Ohm en el siglo XIX y se expresa mediante la siguiente ecuación:
 \begin{center}
@@ -118,31 +133,10 @@ El divisor de corriente se utiliza para calcular la corriente en una rama espec�
 \begin{center}
 	$I_{k}=\frac{I_{fc}*R_{eq}}{R_{k}}$
 \end{center}
-
-
-\section{Primera etapa. Teoría}
-\includegraphics[width=\linewidth]{Imagenes/notas.jpg}
-\section{Segunda etapa. Simulación}
-\subsection{Utilizando el programa de simulación Multisim.}
-\includegraphics[width=\linewidth]{Imagenes/recistencia eq.png}
-\includegraphics[width=\linewidth]{Imagenes/recistencias k.png}
-\includegraphics[width=\linewidth]{Imagenes/corriente k.png}
-\includegraphics[width=\linewidth]{Imagenes/potencias.png}
-\subsection{Ahora Utilizando el programa de Pspice:}
-\includegraphics[width=\linewidth]{Imagenes/psipce.png}
-\includegraphics[width=\linewidth]{Imagenes/reseq.png}
-\includegraphics[width=\linewidth]{Imagenes/vk.png}
-\includegraphics[width=\linewidth]{Imagenes/intensidad.png}
-\includegraphics[width=\linewidth]{Imagenes/potenciak.png}
-
-\section{Tercera etapa. Mediciones con instrumentos en laboratorio}
-
-\includegraphics[width=\linewidth]{Imagenes/Proto.jpeg}
-
 \end{multicols}
 
 \begin{center}
-	\begin{adjustbox}{width=500pt}
+	\begin{adjustbox}{width=540pt}
 		\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 			\hline
 			
@@ -167,9 +161,50 @@ El divisor de corriente se utiliza para calcular la corriente en una rama espec�
 		\end{tabular}
 	\end{adjustbox}
 \end{center}
-
-
 \begin{multicols}{2}
+
+\section{Primera etapa. Teoría}
+\begin{center}
+	\includegraphics[width=5cm, height=7.5cm]{Imagenes/notas.jpg}
+	\captionof{figure}{Recopilacion de los calculos}
+	\includegraphics[width=5cm, height=8cm]{Imagenes/cal.jpg}
+	\captionof{figure}{Calculos en la teoria}
+\end{center}
+\section{Segunda etapa. Simulación}
+\subsection{Utilizando el programa de simulación Multisim.}
+\includegraphics[width=\linewidth]{Imagenes/recistencia eq.png}
+\captionof{figure}{Recistencia equivalente del circuito}
+\includegraphics[width=\linewidth]{Imagenes/recistencias k.png}
+\captionof{figure}{Valor de cada recistencia en el circuito}
+\includegraphics[width=\linewidth]{Imagenes/corriente k.png}
+\captionof{figure}{Valor de cada corriente en el circuito}
+\includegraphics[width=\linewidth]{Imagenes/potencias.png}
+\captionof{figure}{Valor de la potencia de cada componente}
+\subsection{Ahora Utilizando el programa de Pspice:}
+\includegraphics[width=\linewidth]{Imagenes/psipce.png}
+\captionof{figure}{Circuito simulado en Pspice} 
+Para poder calcular la recistencia equivalente en este programa utilizamos la ley de ohm exactamente $R=frac_{V}{I}$ graficando esta formula tenemos lo siguiente: 
+\includegraphics[width=\linewidth]{Imagenes/reseq.png}
+\captionof{figure}{Grafica de la recistencia equivalente}
+
+\includegraphics[width=\linewidth]{Imagenes/vk.png}
+\captionof{figure}{Grafica del tensión de cada recistor}
+\includegraphics[width=\linewidth]{Imagenes/intensidad.png}
+\captionof{figure}{Grafica de la corriente de cada elemento}
+\includegraphics[width=\linewidth]{Imagenes/potenciak.png}
+\captionof{figure}{Grafica de la potencia en cada recistor}
+
+\section{Tercera etapa. Mediciones con instrumentos en laboratorio}
+Por falta de imagenes tomadas en el laboratorio se muestran imagenes tomadas la casa del alumno tomando la medicion de la recitencia equivalente con su multimetro propio 
+\begin{center}
+	\includegraphics[width=4cm, height=6cm]{Imagenes/Proto.jpeg}
+	\captionof{figure}{Circuito armado en la protoboard}
+	\includegraphics[width=4cm, height=6cm]{Imagenes/mediciones.jpeg}
+	\captionof{figure}{Medicion de la recistencia equivalente}
+	\includegraphics[width=4cm, height=6cm]{Imagenes/muldata.jpeg}
+	\captionof{figure}{Resultados de la medicion}
+\end{center}
+
 
 \end{multicols}
 
