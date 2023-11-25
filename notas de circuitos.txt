@@ -1,0 +1,6 @@
+el voltaje de la fuente es mi referencia porque no se desfaza
+tomar lecturas apartir de que la señal sea estable 
+el periodo lo vamos a medir con los cursores 
+la primer senoide que alcanza el pico va a delante o esta adelantada 
+
+v(t)=0.2650sen(1000t-116.36°)[V]

@@ -1,0 +1,45 @@
+
+**** 11/13/23 21:19:17 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-sim"  [ D:\WorkSpace\Circuitos_DC-AC\14-11-23-PSpiceFiles\SCHEMATIC1\sim.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "sim.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\jehh1\AppData\Roaming\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 100ms 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source 14-11-23
+C_C1         N00207 N00211  10 nF  TC=0,0 
+-------------------------------$
+ERROR(ORPSIM-16015): Unknown parameter.
+R_R1         N00231 N00207  1k TC=0,0 
+R_R2         N00211 N00215  2 TC=0,0 
+L_L1         N00215 0  10mH  
+V_V2         N00231 0  
++SIN 0 2.8284 159.15 0 0 0
+
+**** RESUMING sim.cir ****
+.END
+

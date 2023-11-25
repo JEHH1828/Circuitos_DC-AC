@@ -1,0 +1,10 @@
+* source PRACTICA2
+C_C1         N00254 N00278  1u  TC=0,0 
+C_C2         0 N00278  10n  TC=0,0 
+R_R1         N00247 N00254  1k TC=0,0 
+R_R2         0 N00289  1k TC=0,0 
+R_R3         N00254 N00278  1k TC=0,0 
+R_R4         0 N00278  1k TC=0,0 
+R_R5         N00285 N00254  330 TC=0,0 
+L_L1         N00285 N00289  1.5H  
+V_V1         N00247 0 9Vdc
